@@ -34,6 +34,14 @@ Therefore, this repository contains 2 branches:
 
 Please choose the branch that matches your SAPUI5 version and enjoy the benefits testing with the latest `qunit` and `sinon`.
 
+## Requirements
+
+You have installed the following software:
+
+- [Node.js and npm](https://nodejs.org/en)
+
+- [UI5 CLI](https://sap.github.io/ui5-tooling/v3/pages/CLI/)
+
 ## Known Issues
 
 No known issues.
@@ -47,6 +55,10 @@ For additional support, [leafe a comment in the Blog Post](https://community.sap
 ## Contributing
 
 If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
+
+## Code of Conduct
+
+See [SAP Open Source Code of Conduct](https://github.com/SAP-samples/ui5-unit-testing-latest-qunit-sinon?tab=coc-ov-file).
 
 ## License
 
