@@ -34,6 +34,14 @@ Therefore, this repository contains 2 branches:
 
 Please choose the branch that matches your SAPUI5 version and enjoy the benefits testing with the latest `qunit` and `sinon`.
 
+## Requirements
+
+You have installed the following software:
+
+- [Node.js and npm](https://nodejs.org/en)
+
+- [UI5 CLI](https://sap.github.io/ui5-tooling/v3/pages/CLI/)
+
 ## Known Issues
 
 No known issues.
