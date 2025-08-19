@@ -46,7 +46,7 @@ No known issues.
 
 [Create an issue](https://github.com/SAP-samples/ui5-unit-testing-latest-qunit-sinon/issues) in this repository if you find a bug or have questions about the content.
 
-For additional support, [leafe a comment in the Blog Post](https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-use-latest-qunit-and-sinon-to-test-your-sapui5-applications/ba-p/14156476).
+For additional support, [leave a comment in the Blog Post](https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-use-latest-qunit-and-sinon-to-test-your-sapui5-applications/ba-p/14156476).
 
 ## Contributing
 
