@@ -16,11 +16,7 @@ This default template for SAP Samples repositories includes files for README, LI
 
 # Use latest QUnit and sinon to test your SAPUI5 applications
 
-<!-- Please include descriptive title -->
-
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ui5-unit-testing-latest-qunit-sinon)](https://api.reuse.software/info/github.com/SAP-samples/ui5-unit-testing-latest-qunit-sinon)
 
 ## Description
 
